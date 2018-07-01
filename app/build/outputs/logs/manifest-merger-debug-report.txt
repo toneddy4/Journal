@@ -1,0 +1,118 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:design:27.0.2] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\ba3e249f70d191df8a1224363ece800a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\b241b239d2655dca405cf6ef7fd6277c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\ccddcb5bb7bdf937e62055eb378b6be9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\2e41ed0788cc726d3af784601540a8bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\33c6911f538bfa90fdf5572b41b1c27c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\4801192dad1518d404888659385c1b6d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\a6774e652ff9ed55945ba98d6711146a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\4cb7c13b640e53b2782048610b4f9f04\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\fb81b0225543711b91af7c46c03c1dd1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\59c9de791468778717df5de5910d848c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\1940ccb0baf051baf8ffb8da5c0fb58c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\558527c83fe752f281f9ee9afb4e3a21\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\d14f884d8b9932104225edfc783b3964\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml:5:5-71
+	android:name
+		ADDED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml:5:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml:7:5-72
+	android:name
+		ADDED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml:7:22-69
+application
+ADDED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml:9:5-25:19
+	android:supportsRtl
+		ADDED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.example.android.journalapp.LoginActivity
+ADDED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml:17:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.0.2] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\ba3e249f70d191df8a1224363ece800a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\ba3e249f70d191df8a1224363ece800a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\b241b239d2655dca405cf6ef7fd6277c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\b241b239d2655dca405cf6ef7fd6277c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\ccddcb5bb7bdf937e62055eb378b6be9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\ccddcb5bb7bdf937e62055eb378b6be9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\2e41ed0788cc726d3af784601540a8bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\2e41ed0788cc726d3af784601540a8bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\33c6911f538bfa90fdf5572b41b1c27c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\33c6911f538bfa90fdf5572b41b1c27c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\4801192dad1518d404888659385c1b6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\4801192dad1518d404888659385c1b6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\a6774e652ff9ed55945ba98d6711146a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\a6774e652ff9ed55945ba98d6711146a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\4cb7c13b640e53b2782048610b4f9f04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\4cb7c13b640e53b2782048610b4f9f04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\fb81b0225543711b91af7c46c03c1dd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\fb81b0225543711b91af7c46c03c1dd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\59c9de791468778717df5de5910d848c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\59c9de791468778717df5de5910d848c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\1940ccb0baf051baf8ffb8da5c0fb58c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\1940ccb0baf051baf8ffb8da5c0fb58c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\558527c83fe752f281f9ee9afb4e3a21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\558527c83fe752f281f9ee9afb4e3a21\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\d14f884d8b9932104225edfc783b3964\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\P EDET\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\d14f884d8b9932104225edfc783b3964\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\GoogleAfrica\JournalApp\app\src\main\AndroidManifest.xml
